@@ -1,0 +1,4 @@
+
+user_list:
+    path: /users
+    controller: App\Controller\UserController::listUsers
